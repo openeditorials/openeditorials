@@ -34,7 +34,22 @@ authors:
       bio:            "Financial News. Making sense of the Market"
       email:          maverick@openeditorials.com
       twitter:        https://twitter.com/OpenEditorials
-       
+
+    Tyler:
+      name:           Tyler
+      site:           https://www.openeditorials.com
+      avatar:         /assets/images/avatar3.jpg
+      bio:            "On a long enough timeline, the survival rate drops to Zero"
+      email:          tyler@openeditorials.com
+      twitter:        https://twitter.com/OpenEditorials
+
+    Kino:
+      name:           Kino
+      site:           https://www.openeditorials.com
+      avatar:         /assets/images/avatar4.jpg
+      bio:            "The hope to live is to fight back"
+      email:          kino@openeditorials.com
+      twitter:        https://twitter.com/OpenEditorials
  
 # Defaults
 defaults:

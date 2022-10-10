@@ -4,7 +4,7 @@ title:  "Indian Government hikes gas prices by 40%"
 author: Maverick
 categories: [ Financial, commodity ]
 image: assets/images/2022lng.jpg
-tags: [price, hike, LNG, sticky]
+tags: [price, hike, LNG ]
 ---
 
 The government of India on Friday hiked the price of Natural gas by 40%.
